@@ -1,6 +1,6 @@
 # UcgenAlan
 ## Java-101 Ucgen Alan ve Cevre Hesaplama
- [](www.patika.dev)
+ (www.patika.dev)
 
 
 
